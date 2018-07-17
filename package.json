@@ -1,0 +1,28 @@
+{
+  "name": "designdata",
+  "version": "1.0.0",
+  "description": "The standardized data structure for design tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animify/designdata.git"
+  },
+  "keywords": [
+    "designdata",
+    "design",
+    "data",
+    "structure",
+    "json",
+    "object",
+    "standard"
+  ],
+  "author": "Stefan Mansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/animify/designdata/issues"
+  },
+  "homepage": "https://github.com/animify/designdata#readme"
+}
